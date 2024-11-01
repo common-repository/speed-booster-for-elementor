@@ -1,0 +1,16 @@
+body[class*=_page_speed-booster-for-elementor] #wpwrap {
+    background-color: #f3f4f5;
+}
+
+body[class*=_page_speed-booster-for-elementor] #wpcontent {
+    padding: 0;
+}
+
+body[class*=_page_speed-booster-for-elementor] #wpbody-content {
+    padding-bottom: 50px;
+}
+
+#wpfooter {
+    position: absolute !important;
+    max-height: 35px;
+}
